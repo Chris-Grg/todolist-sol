@@ -1,3 +1,4 @@
+![todo-list](https://github.com/Chris-Grg/todolist-sol/assets/121335744/780f7c6c-3a36-4941-8beb-3dc51d1864ef)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
