@@ -6,3 +6,27 @@
 font-family: "Montserrat";
 
 }
+button{
+  cursor: pointer;
+  box-sizing: border-box;
+  border-radius: 20px;
+  padding: 5px;
+  background-color: #f0f0f0;
+    border: rgba(1, 53, 69, 0.579) solid;
+  margin:auto 5px;
+
+}
+input{
+  box-sizing: border-box;
+  border-radius: 20px;
+  border: rgba(1, 53, 69, 0.579) solid;
+margin-left:0px;
+  padding: 5px;
+  height: 35px;
+  width:250px
+
+}
+.dropdown{
+  border-radius: 20px;
+  height: 25px;
+}
